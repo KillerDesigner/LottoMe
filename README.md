@@ -1,0 +1,1 @@
+A rails app to generate random lottery numbers
